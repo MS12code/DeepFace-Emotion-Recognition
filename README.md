@@ -1,6 +1,6 @@
 # DeepFace Emotion Recognition
 
-A Python project implemented in **Google Colab** that uses DeepFace and OpenCV to detect faces in images and analyze their emotions. The notebook extracts faces, crops them, and predicts emotions like happy, sad, angry, surprise, and more, with visualizations.
+A Python project implemented in **Google Colab** that uses DeepFace and OpenCV to detect faces in images and analyze their emotions. The notebook extracts faces, crops them, and predicts emotions like happy, sad, angry, and neutral with visualizations.
 
 ---
 
